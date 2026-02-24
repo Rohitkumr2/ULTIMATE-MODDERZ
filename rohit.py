@@ -86,7 +86,7 @@ def search_log(query):
 # ==========================================
 # 🎨 UI CODE (PC & ANDROID APP DESIGN + SCROLL FIX)
 # ==========================================
-HTML_CODE = """
+HTML_CODE = ""
 <!DOCTYPE html>
 <html lang="en">
 <head>
