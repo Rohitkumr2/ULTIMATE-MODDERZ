@@ -108,7 +108,7 @@ HTML_CODE = """
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 100_vh;
+            height = "100vh"
             overflow: hidden;
             position: relative;
         }
